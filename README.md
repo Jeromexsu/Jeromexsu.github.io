@@ -1,6 +1,6 @@
-# Jekyll GitBook
+# Jeremy Learns
 
-Make Jelly site have a GitBook look!
+To live and to love
 
 ## Demo
 
